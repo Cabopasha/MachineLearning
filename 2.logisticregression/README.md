@@ -53,3 +53,7 @@ Veri seti [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uc
 ## **Sonuç**
 Bu proje, logistic regression algoritmasının iki farklı yöntemle uygulanmasını ve karşılaştırılmasını içermektedir.
 
+kaynaklar:https://chatgpt.com/
+https://tr.wikipedia.org/
+https://products.aspose.app/
+https://youtu.be/yIYKR4sgzI8
