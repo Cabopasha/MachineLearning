@@ -57,3 +57,4 @@ kaynaklar:https://chatgpt.com/
 https://tr.wikipedia.org/
 https://products.aspose.app/
 https://youtu.be/yIYKR4sgzI8
+https://www.kaggle.com/datasets/erdemtaha/cancer-data
