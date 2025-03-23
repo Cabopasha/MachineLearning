@@ -50,27 +50,6 @@ Veri seti [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uc
 - - \*\*Optimizasyon Yöntemleri:\*\* Scikit-learn, optimize edilmiş algoritmalar (lbfgs, liblinear vb.) kullanırken, custom modelde gradient descent ile manuel optimizasyon yapılmıştır.
 - - \*\*Performans Metrikleri:\*\* Confusion matrix, accuracy gibi metrikler üzerinden yapılan karşılaştırma, modelin veri setine uygunluğunu göstermiştir.
 
-## **Kurulum ve Çalıştırma**
-1. 1. \*\*Gerekli Kütüphanelerin Yüklenmesi:\*\*
-
-`   ````bash
-
-`   `pip install numpy pandas scikit-learn matplotlib seaborn
-
-`   ````
-
-1. 2. \*\*Proje Dizini:\*\*  
-
-`   `Projeyi klonlayın veya indirin ve `Cancer\_Data.csv` dosyasının doğru konumda olduğundan emin olun.
-
-1. 3. \*\*Jupyter Notebook veya Python Script:\*\*  
-
-`   `Notebook dosyalarını çalıştırarak modeli eğitebilir ve sonuçları görebilirsiniz.
-
-1. 4. \*\*GitHub:\*\*  
-
-`   `Proje, GitHub deposunda düzenli commit'ler ile takip edilmelidir.
-
 ## **Sonuç**
 Bu proje, logistic regression algoritmasının iki farklı yöntemle uygulanmasını ve karşılaştırılmasını içermektedir.
 
