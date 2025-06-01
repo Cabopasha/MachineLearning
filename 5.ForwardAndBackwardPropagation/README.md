@@ -1,4 +1,4 @@
-﻿\# YZM212 - Sinir Ağı ile Kanser Tanısı (İleri-Geri Yayılım)
+﻿ - Sinir Ağı ile Kanser Tanısı (İleri-Geri Yayılım)
 
 Bu projede Amaç, NumPy kullanarak ileri ve geri yayılım algoritmalarını sıfırdan implemente ederek, bir yapay sinir ağı ile \*\*kanser tanı sınıflandırması\*\* yapmaktır.
 
